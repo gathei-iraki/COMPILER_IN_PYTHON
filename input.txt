@@ -1,0 +1,6 @@
+let x = 10
+let y = 20
+while (x < y) :
+    let x = x + 1
+print(x)
+exit
